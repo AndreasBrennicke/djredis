@@ -1,2 +1,2 @@
 # djredis
-Django, Celery &amp; Redis on Docker
+Django, Celery, Redis and Postgresql on Docker
